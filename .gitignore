@@ -1,0 +1,9 @@
+# ignore log and old files
+*.log
+*.old
+
+# ignore everything from the Art Gallery
+art/
+
+# configuration file with passwords
+wp-config.php

@@ -1,0 +1,687 @@
+0000.000 (0) Opened log file at time: Sun, 26 Jun 2022 10:53:15 +0000 on https://12densities.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 5.9.3 PHP: 7.4.30 (litespeed, Linux cpanel-5.controlpanel.si 3.10.0-962.3.2.lve1.5.42.el7.x86_64 #1 SMP Mon Nov 9 08:11:18 EST 2020 x86_64) MySQL: 10.3.34-MariaDB-log-cll-lve (max packet size=268435456) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 91.6M | 93M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 157920 MB
+0000.003 (0) Deleting old log file: log.3a6d16a14115.txt
+0000.005 (0) Deleting old log file: log.2f4ddaa8e90f.txt
+0000.007 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.009 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.011 (0) Set semaphore last lock (fd) time to 2022-06-26 10:53:15
+0000.011 (0) Semaphore lock (fd) complete
+0000.014 (0) Backup run: resumption=0, nonce=05424b04bfb4, file_nonce=05424b04bfb4 begun at=1656240795 (0s ago), job type=backup
+0000.015 (0) Scheduling a resumption (1) after 300 seconds (1656241095) in case this run gets aborted
+0000.042 (0) Checking if we have a zip executable available
+0000.043 (0) Creation of backups of directories: beginning
+0000.046 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.264 (0) Total entities for the zip file: 2192 directories, 13424 files (0 skipped as non-modified), 186.9 MB
+0002.273 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0002.365 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 100 files added (on-disk size: 377.4 KB)
+0002.369 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 200 files added (on-disk size: 377.4 KB)
+0002.372 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 300 files added (on-disk size: 377.4 KB)
+0002.376 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 400 files added (on-disk size: 377.4 KB)
+0002.380 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 500 files added (on-disk size: 377.4 KB)
+0002.384 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 600 files added (on-disk size: 377.4 KB)
+0002.390 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 700 files added (on-disk size: 377.4 KB)
+0002.395 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 800 files added (on-disk size: 377.4 KB)
+0002.408 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 900 files added (on-disk size: 377.4 KB)
+0002.413 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1000 files added (on-disk size: 377.4 KB)
+0002.414 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.1 MB, 13424 files batched, 1001 (1002) added so far); re-opening (prior size: 377.4 KB)
+0006.803 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1100 files added (on-disk size: 6991 KB)
+0006.807 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1200 files added (on-disk size: 6991 KB)
+0006.810 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1300 files added (on-disk size: 6991 KB)
+0006.813 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1400 files added (on-disk size: 6991 KB)
+0006.817 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1500 files added (on-disk size: 6991 KB)
+0006.820 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1600 files added (on-disk size: 6991 KB)
+0006.824 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1700 files added (on-disk size: 6991 KB)
+0006.830 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1800 files added (on-disk size: 6991 KB)
+0006.834 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 1900 files added (on-disk size: 6991 KB)
+0006.838 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2000 files added (on-disk size: 6991 KB)
+0006.839 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.9 MB, 13424 files batched, 1001 (2003) added so far); re-opening (prior size: 6991 KB)
+0010.336 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2100 files added (on-disk size: 10432.5 KB)
+0010.340 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2200 files added (on-disk size: 10432.5 KB)
+0010.343 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2300 files added (on-disk size: 10432.5 KB)
+0010.347 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2400 files added (on-disk size: 10432.5 KB)
+0010.350 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2500 files added (on-disk size: 10432.5 KB)
+0010.354 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2600 files added (on-disk size: 10432.5 KB)
+0010.357 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2700 files added (on-disk size: 10432.5 KB)
+0010.361 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2800 files added (on-disk size: 10432.5 KB)
+0010.364 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 2900 files added (on-disk size: 10432.5 KB)
+0010.368 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3000 files added (on-disk size: 10432.5 KB)
+0010.368 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.7 MB, 13424 files batched, 1001 (3004) added so far); re-opening (prior size: 10432.5 KB)
+0013.939 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3100 files added (on-disk size: 13369.9 KB)
+0013.945 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3200 files added (on-disk size: 13369.9 KB)
+0013.949 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3300 files added (on-disk size: 13369.9 KB)
+0013.953 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3400 files added (on-disk size: 13369.9 KB)
+0013.957 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3500 files added (on-disk size: 13369.9 KB)
+0013.963 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3600 files added (on-disk size: 13369.9 KB)
+0013.968 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3700 files added (on-disk size: 13369.9 KB)
+0013.974 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3800 files added (on-disk size: 13369.9 KB)
+0013.979 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 3900 files added (on-disk size: 13369.9 KB)
+0013.985 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4000 files added (on-disk size: 13369.9 KB)
+0013.986 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.9 MB, 13424 files batched, 1001 (4005) added so far); re-opening (prior size: 13369.9 KB)
+0017.919 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4100 files added (on-disk size: 17139.5 KB)
+0017.923 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4200 files added (on-disk size: 17139.5 KB)
+0017.926 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4300 files added (on-disk size: 17139.5 KB)
+0017.930 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4400 files added (on-disk size: 17139.5 KB)
+0017.933 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4500 files added (on-disk size: 17139.5 KB)
+0017.937 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4600 files added (on-disk size: 17139.5 KB)
+0017.941 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4700 files added (on-disk size: 17139.5 KB)
+0017.944 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4800 files added (on-disk size: 17139.5 KB)
+0017.947 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 4900 files added (on-disk size: 17139.5 KB)
+0017.951 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5000 files added (on-disk size: 17139.5 KB)
+0017.952 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13 MB, 13424 files batched, 1001 (5006) added so far); re-opening (prior size: 17139.5 KB)
+0022.593 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5100 files added (on-disk size: 21082.6 KB)
+0022.597 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5200 files added (on-disk size: 21082.6 KB)
+0022.601 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5300 files added (on-disk size: 21082.6 KB)
+0022.604 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5400 files added (on-disk size: 21082.6 KB)
+0022.608 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5500 files added (on-disk size: 21082.6 KB)
+0022.611 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5600 files added (on-disk size: 21082.6 KB)
+0022.614 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5700 files added (on-disk size: 21082.6 KB)
+0022.618 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5800 files added (on-disk size: 21082.6 KB)
+0022.621 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 5900 files added (on-disk size: 21082.6 KB)
+0022.625 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6000 files added (on-disk size: 21082.6 KB)
+0022.626 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.7 MB, 13424 files batched, 1001 (6007) added so far); re-opening (prior size: 21082.6 KB)
+0027.473 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6100 files added (on-disk size: 26748.4 KB)
+0027.477 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6200 files added (on-disk size: 26748.4 KB)
+0027.481 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6300 files added (on-disk size: 26748.4 KB)
+0027.484 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6400 files added (on-disk size: 26748.4 KB)
+0027.487 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6500 files added (on-disk size: 26748.4 KB)
+0027.490 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6600 files added (on-disk size: 26748.4 KB)
+0027.494 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6700 files added (on-disk size: 26748.4 KB)
+0027.497 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6800 files added (on-disk size: 26748.4 KB)
+0027.500 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 6900 files added (on-disk size: 26748.4 KB)
+0027.504 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7000 files added (on-disk size: 26748.4 KB)
+0027.504 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.1 MB, 13424 files batched, 1001 (7008) added so far); re-opening (prior size: 26748.4 KB)
+0032.055 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7100 files added (on-disk size: 29640 KB)
+0032.060 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7200 files added (on-disk size: 29640 KB)
+0032.064 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7300 files added (on-disk size: 29640 KB)
+0032.069 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7400 files added (on-disk size: 29640 KB)
+0032.073 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7500 files added (on-disk size: 29640 KB)
+0032.077 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7600 files added (on-disk size: 29640 KB)
+0032.082 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7700 files added (on-disk size: 29640 KB)
+0032.086 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7800 files added (on-disk size: 29640 KB)
+0032.091 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 7900 files added (on-disk size: 29640 KB)
+0032.095 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8000 files added (on-disk size: 29640 KB)
+0032.096 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.4 MB, 13424 files batched, 1001 (8009) added so far); re-opening (prior size: 29640 KB)
+0040.079 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8100 files added (on-disk size: 38051.9 KB)
+0040.083 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8200 files added (on-disk size: 38051.9 KB)
+0040.086 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8300 files added (on-disk size: 38051.9 KB)
+0040.090 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8400 files added (on-disk size: 38051.9 KB)
+0040.093 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8500 files added (on-disk size: 38051.9 KB)
+0040.097 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8600 files added (on-disk size: 38051.9 KB)
+0040.101 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8700 files added (on-disk size: 38051.9 KB)
+0040.104 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8800 files added (on-disk size: 38051.9 KB)
+0040.108 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 8900 files added (on-disk size: 38051.9 KB)
+0040.112 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9000 files added (on-disk size: 38051.9 KB)
+0040.113 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.7 MB, 13424 files batched, 1001 (9010) added so far); re-opening (prior size: 38051.9 KB)
+0046.660 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9100 files added (on-disk size: 40857 KB)
+0046.664 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9200 files added (on-disk size: 40857 KB)
+0046.668 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9300 files added (on-disk size: 40857 KB)
+0046.673 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9400 files added (on-disk size: 40857 KB)
+0046.676 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9500 files added (on-disk size: 40857 KB)
+0046.681 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9600 files added (on-disk size: 40857 KB)
+0046.684 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9700 files added (on-disk size: 40857 KB)
+0046.688 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9800 files added (on-disk size: 40857 KB)
+0046.692 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 9900 files added (on-disk size: 40857 KB)
+0046.696 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10000 files added (on-disk size: 40857 KB)
+0046.697 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.6 MB, 13424 files batched, 1001 (10011) added so far); re-opening (prior size: 40857 KB)
+0055.513 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10100 files added (on-disk size: 45405.6 KB)
+0055.519 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10200 files added (on-disk size: 45405.6 KB)
+0055.523 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10300 files added (on-disk size: 45405.6 KB)
+0055.527 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10400 files added (on-disk size: 45405.6 KB)
+0055.531 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10500 files added (on-disk size: 45405.6 KB)
+0055.535 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10600 files added (on-disk size: 45405.6 KB)
+0055.539 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10700 files added (on-disk size: 45405.6 KB)
+0055.542 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10800 files added (on-disk size: 45405.6 KB)
+0055.546 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 10900 files added (on-disk size: 45405.6 KB)
+0055.551 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11000 files added (on-disk size: 45405.6 KB)
+0055.552 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.4 MB, 13424 files batched, 1001 (11012) added so far); re-opening (prior size: 45405.6 KB)
+0062.534 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11100 files added (on-disk size: 48254 KB)
+0062.538 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11200 files added (on-disk size: 48254 KB)
+0062.542 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11300 files added (on-disk size: 48254 KB)
+0062.546 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11400 files added (on-disk size: 48254 KB)
+0062.549 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11500 files added (on-disk size: 48254 KB)
+0062.553 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11600 files added (on-disk size: 48254 KB)
+0062.557 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11700 files added (on-disk size: 48254 KB)
+0062.560 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11800 files added (on-disk size: 48254 KB)
+0062.564 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 11900 files added (on-disk size: 48254 KB)
+0062.568 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12000 files added (on-disk size: 48254 KB)
+0062.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.6 MB, 13424 files batched, 1001 (12013) added so far); re-opening (prior size: 48254 KB)
+0069.657 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12100 files added (on-disk size: 51492.7 KB)
+0069.662 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12200 files added (on-disk size: 51492.7 KB)
+0069.666 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12300 files added (on-disk size: 51492.7 KB)
+0069.672 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12400 files added (on-disk size: 51492.7 KB)
+0069.677 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12500 files added (on-disk size: 51492.7 KB)
+0069.682 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12600 files added (on-disk size: 51492.7 KB)
+0069.686 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12700 files added (on-disk size: 51492.7 KB)
+0069.691 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12800 files added (on-disk size: 51492.7 KB)
+0069.695 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 13424 files batched, 872 (12885) added so far); re-opening (prior size: 51492.7 KB)
+0083.741 (0) A useful amount of data was added after this amount of zip processing: 14.5 s (normalised: 14.5 s, rate: 1766.2 KB/s)
+0083.817 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 12900 files added (on-disk size: 59927.1 KB)
+0083.822 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 13000 files added (on-disk size: 59927.1 KB)
+0083.826 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 13100 files added (on-disk size: 59927.1 KB)
+0083.830 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 13200 files added (on-disk size: 59927.1 KB)
+0083.837 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 13300 files added (on-disk size: 59927.1 KB)
+0083.842 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.tmp: 13400 files added (on-disk size: 59927.1 KB)
+0096.970 (0) Creating zip file manifest (backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.list-temp.tmp)
+0097.133 (0) Successfully created zip file manifest (size: 1093849)
+0097.865 (0) Created plugins zip (0) - 65109.7 KB in 97.8 s (665.6 KB/s) (sha1: d1753698c05a6e750915df267e65c77555ca4f67, sha256: 5bae4616f0d23f974747c1487556e5e803bdc9c4c5078a481aa1e62c4ef59913)
+0097.867 (0) Beginning creation of dump of themes (split every: 400 MB)
+0097.906 (0) Total entities for the zip file: 54 directories, 443 files (0 skipped as non-modified), 14.2 MB
+0097.909 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0097.913 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0097.916 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0097.919 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0101.060 (0) Creating zip file manifest (backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip.list-temp.tmp)
+0101.063 (0) Successfully created zip file manifest (size: 30172)
+0101.182 (0) Created themes zip (0) - 10793 KB in 3.3 s (3257.5 KB/s) (sha1: 4ccc868accd8e43deb135006415f47562de7554c, sha256: 8721bc2be7d6b427b5acd09c235b34787526488e43df11c64c352a5622c6189e)
+0101.183 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0101.184 (0) Looking for candidates to backup in: /home/c12den44/public_html/wp-content/uploads
+0101.185 (0) finding files: 2019: adding to list (1)
+0101.186 (0) finding files: 2020: adding to list (2)
+0101.186 (0) finding files: ithemes-security: adding to list (3)
+0101.187 (0) finding files: smile_fonts: adding to list (4)
+0101.187 (0) finding files: 2022: adding to list (5)
+0101.188 (0) finding files: js_composer: adding to list (6)
+0101.189 (0) finding files: 2021: adding to list (7)
+0101.189 (0) finding files: wpforms: adding to list (8)
+0101.190 (0) finding files: 2018: adding to list (9)
+0101.190 (0) finding files: 2017: adding to list (10)
+0101.191 (0) finding files: wpcf7_uploads: adding to list (11)
+0101.191 (0) finding files: revslider: adding to list (12)
+0101.192 (0) finding files: 2015: adding to list (13)
+0101.192 (0) finding files: elementor: adding to list (14)
+0101.193 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0101.417 (0) Total entities for the zip file: 485 directories, 1154 files (0 skipped as non-modified), 23.2 MB
+0101.421 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0101.424 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0101.427 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0101.430 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0101.433 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0101.436 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0101.439 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+0101.442 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+0101.445 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+0101.448 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0101.449 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.4 MB, 1154 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0108.023 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.tmp: 1100 files added (on-disk size: 19311.3 KB)
+0110.703 (0) Creating zip file manifest (backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.list-temp.tmp)
+0110.707 (0) Successfully created zip file manifest (size: 76811)
+0111.079 (0) Created uploads zip (0) - 22226.9 KB in 9.9 s (2248.4 KB/s) (sha1: e7d4cb38efebb4211bfd62d903bbcb9d317486b8, sha256: ee8dcee60270af1107fd3c88535f4e7a8e2299f18cfe8705e643028a3d30d493)
+0111.081 (0) Beginning backup of other directories found in the content directory (index: 0)
+0111.082 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0111.082 (0) Looking for candidates to backup in: /home/c12den44/public_html/wp-content
+0111.083 (0) finding files: languages: adding to list (1)
+0111.084 (0) finding files: upgrade: skipping: excluded by options
+0111.084 (0) finding files: uploads: skipping: this is the uploads directory
+0111.085 (0) finding files: themes: skipping: this is the themes directory
+0111.085 (0) finding files: wflogs: adding to list (2)
+0111.086 (0) finding files: aiowps_backups: skipping: excluded by options (glob)
+0111.086 (0) finding files: updraft: skipping: this is the updraft directory
+0111.087 (0) finding files: index.php: adding to list (3)
+0111.087 (0) finding files: maintenance: adding to list (4)
+0111.088 (0) finding files: maintenance.php: adding to list (5)
+0111.089 (0) finding files: plugins: skipping: this is the plugins directory
+0111.105 (0) Total entities for the zip file: 8 directories, 461 files (0 skipped as non-modified), 26.2 MB
+0111.109 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0111.112 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0111.117 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0111.121 (0) Zip: backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0111.124 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.9 MB, 461 files batched, 452 (452) added so far); re-opening (prior size: 0 KB)
+0120.637 (0) A useful amount of data was added after this amount of zip processing: 10.4 s (normalised: 10 s, rate: 2553.2 KB/s)
+0121.662 (0) Creating zip file manifest (backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip.list-temp.tmp)
+0121.665 (0) Successfully created zip file manifest (size: 29811)
+0121.776 (0) Created others zip (0) - 10556.5 KB in 10.7 s (987.8 KB/s) (sha1: 72bcadb0b49d0b3fb6a71d0465fe7d21cbb87bcd, sha256: 123b9aad74621f85e693f15b6454e59ffcbf4953eadb9b9ae09b114f665f69df)
+0121.780 (0) Saving backup status to database (elements: 8)
+0121.783 (0) Beginning creation of database dump (WordPress DB)
+0121.784 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0121.812 (0) Table wpnd_options: Total expected rows (via COUNT): 464
+0121.813 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0121.882 (0) Table wpnd_options: Rows added in this batch (next record: 189287): 460 (uncompressed bytes in this segment=1996923) in 0.08 seconds
+0121.886 (0) Table wpnd_options: finishing file(s) (2, 214.4 KB)
+0121.891 (0) Table wpnd_users: Total expected rows (via COUNT): 2
+0121.891 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0121.893 (0) Table wpnd_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1459) in 0.00 seconds
+0121.896 (0) Table wpnd_users: finishing file(s) (2, 0.6 KB)
+0121.900 (0) Table wpnd_usermeta: Total expected rows (via COUNT): 124
+0121.900 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0121.914 (0) Table wpnd_usermeta: Rows added in this batch (next record: 282): 124 (uncompressed bytes in this segment=9496) in 0.02 seconds
+0121.917 (0) Table wpnd_usermeta: finishing file(s) (2, 3.2 KB)
+0121.921 (0) Table wpnd_actionscheduler_actions: Total expected rows (via COUNT): 55
+0121.922 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0121.925 (0) Table wpnd_actionscheduler_actions: Rows added in this batch (next record: 2957): 55 (uncompressed bytes in this segment=27983) in 0.01 seconds
+0121.928 (0) Table wpnd_actionscheduler_actions: finishing file(s) (2, 2.6 KB)
+0121.931 (0) Table wpnd_actionscheduler_claims: Total expected rows (via COUNT): 0
+0121.933 (0) Table wpnd_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=648) in 0.00 seconds
+0121.935 (0) Table wpnd_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0121.939 (0) Table wpnd_actionscheduler_groups: Total expected rows (via COUNT): 3
+0121.939 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0121.942 (0) Table wpnd_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=742) in 0.00 seconds
+0121.944 (0) Table wpnd_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0121.948 (0) Table wpnd_actionscheduler_logs: Total expected rows (via COUNT): 155
+0121.949 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0121.951 (0) Table wpnd_actionscheduler_logs: Rows added in this batch (next record: 1015): 155 (uncompressed bytes in this segment=14209) in 0.00 seconds
+0121.954 (0) Table wpnd_actionscheduler_logs: finishing file(s) (2, 2 KB)
+0121.958 (0) Table wpnd_commentmeta: Total expected rows (via COUNT): 0
+0121.960 (0) Table wpnd_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.00 seconds
+0121.962 (0) Table wpnd_commentmeta: finishing file(s) (2, 0.4 KB)
+0121.965 (0) Table wpnd_comments: Total expected rows (via COUNT): 0
+0121.967 (0) Table wpnd_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1690) in 0.00 seconds
+0121.969 (0) Table wpnd_comments: finishing file(s) (2, 0.5 KB)
+0121.972 (0) Table wpnd_links: Total expected rows (via COUNT): 0
+0121.973 (0) Table wpnd_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1278) in 0.00 seconds
+0121.975 (0) Table wpnd_links: finishing file(s) (2, 0.5 KB)
+0122.126 (0) Table wpnd_postmeta: Total expected rows (approximate): 3399
+0122.260 (0) Table wpnd_postmeta: Rows added in this batch (next record: 25234): 3488 (uncompressed bytes in this segment=3547604) in 0.28 seconds
+0122.265 (0) Table wpnd_postmeta: finishing file(s) (2, 344.8 KB)
+0122.544 (0) Table wpnd_posts: Total expected rows (via COUNT): 948
+0122.774 (0) Table wpnd_posts: Rows added in this batch (next record: 2639): 948 (uncompressed bytes in this segment=10853227) in 0.51 seconds
+0122.779 (0) Table wpnd_posts: finishing file(s) (2, 857.7 KB)
+0122.782 (0) Table wpnd_term_relationships: Total expected rows (approximate): 173
+0122.784 (0) Table wpnd_term_relationships: Rows added in this batch (next record: 100000): 169 (uncompressed bytes in this segment=3287) in 0.00 seconds
+0122.786 (0) Table wpnd_term_relationships: finishing file(s) (2, 0.9 KB)
+0122.790 (0) Table wpnd_term_taxonomy: Total expected rows (via COUNT): 69
+0122.791 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.793 (0) Table wpnd_term_taxonomy: Rows added in this batch (next record: 93): 69 (uncompressed bytes in this segment=4587) in 0.00 seconds
+0122.796 (0) Table wpnd_term_taxonomy: finishing file(s) (2, 1.2 KB)
+0122.800 (0) Table wpnd_termmeta: Total expected rows (via COUNT): 0
+0122.802 (0) Table wpnd_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.00 seconds
+0122.805 (0) Table wpnd_termmeta: finishing file(s) (2, 0.4 KB)
+0122.808 (0) Table wpnd_terms: Total expected rows (via COUNT): 69
+0122.808 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.810 (0) Table wpnd_terms: Rows added in this batch (next record: 93): 69 (uncompressed bytes in this segment=3441) in 0.00 seconds
+0122.813 (0) Table wpnd_terms: finishing file(s) (2, 1.2 KB)
+0122.817 (0) Table wpnd_aiowps_events: Total expected rows (via COUNT): 0
+0122.819 (0) Table wpnd_aiowps_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1044) in 0.00 seconds
+0122.821 (0) Table wpnd_aiowps_events: finishing file(s) (2, 0.4 KB)
+0122.826 (0) Table wpnd_aiowps_failed_logins: Total expected rows (approximate): 5211
+0122.865 (0) Table wpnd_aiowps_failed_logins: Rows added in this batch (next record: 17924): 5000 (uncompressed bytes in this segment=310666) in 0.04 seconds
+0122.869 (0) Table wpnd_aiowps_failed_logins: finishing file(s) (2, 29.7 KB)
+0122.879 (0) Table wpnd_aiowps_global_meta: Total expected rows (via COUNT): 0
+0122.880 (0) Table wpnd_aiowps_global_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1204) in 0.00 seconds
+0122.883 (0) Table wpnd_aiowps_global_meta: finishing file(s) (2, 0.4 KB)
+0122.888 (0) Table wpnd_aiowps_login_activity: Total expected rows (via COUNT): 151
+0122.888 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.891 (0) Table wpnd_aiowps_login_activity: Rows added in this batch (next record: 151): 151 (uncompressed bytes in this segment=14353) in 0.01 seconds
+0122.894 (0) Table wpnd_aiowps_login_activity: finishing file(s) (2, 2.6 KB)
+0122.897 (0) Table wpnd_aiowps_login_lockdown: Total expected rows (via COUNT): 3
+0122.898 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.900 (0) Table wpnd_aiowps_login_lockdown: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1329) in 0.00 seconds
+0122.903 (0) Table wpnd_aiowps_login_lockdown: finishing file(s) (2, 0.5 KB)
+0122.906 (0) Table wpnd_aiowps_permanent_block: Total expected rows (via COUNT): 0
+0122.908 (0) Table wpnd_aiowps_permanent_block: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=843) in 0.00 seconds
+0122.910 (0) Table wpnd_aiowps_permanent_block: finishing file(s) (2, 0.4 KB)
+0122.917 (0) Table wpnd_duplicator_packages: Total expected rows (via COUNT): 3
+0122.917 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.919 (0) Table wpnd_duplicator_packages: Rows added in this batch (next record: 22): 3 (uncompressed bytes in this segment=22786) in 0.01 seconds
+0122.923 (0) Table wpnd_duplicator_packages: finishing file(s) (2, 3.3 KB)
+0122.927 (0) Table wpnd_e_submissions: Total expected rows (via COUNT): 0
+0122.928 (0) Table wpnd_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2301) in 0.00 seconds
+0122.931 (0) Table wpnd_e_submissions: finishing file(s) (2, 0.7 KB)
+0122.935 (0) Table wpnd_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0122.936 (0) Table wpnd_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1276) in 0.00 seconds
+0122.938 (0) Table wpnd_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0122.943 (0) Table wpnd_e_submissions_values: Total expected rows (via COUNT): 0
+0122.944 (0) Table wpnd_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=747) in 0.00 seconds
+0122.947 (0) Table wpnd_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0122.951 (0) Table wpnd_revslider_css: Total expected rows (via COUNT): 109
+0122.952 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.956 (0) Table wpnd_revslider_css: Rows added in this batch (next record: 109): 109 (uncompressed bytes in this segment=90901) in 0.01 seconds
+0122.959 (0) Table wpnd_revslider_css: finishing file(s) (2, 4.9 KB)
+0122.962 (0) Table wpnd_revslider_layer_animations: Total expected rows (via COUNT): 0
+0122.964 (0) Table wpnd_revslider_layer_animations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=674) in 0.00 seconds
+0122.966 (0) Table wpnd_revslider_layer_animations: finishing file(s) (2, 0.3 KB)
+0122.972 (0) Table wpnd_revslider_navigations: Total expected rows (via COUNT): 0
+0122.973 (0) Table wpnd_revslider_navigations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=773) in 0.00 seconds
+0122.976 (0) Table wpnd_revslider_navigations: finishing file(s) (2, 0.4 KB)
+0122.980 (0) Table wpnd_revslider_sliders: Total expected rows (via COUNT): 4
+0122.980 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0122.983 (0) Table wpnd_revslider_sliders: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=43796) in 0.01 seconds
+0122.986 (0) Table wpnd_revslider_sliders: finishing file(s) (2, 3.6 KB)
+0122.993 (0) Table wpnd_revslider_slides: Total expected rows (via COUNT): 9
+0122.993 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.002 (0) Table wpnd_revslider_slides: Rows added in this batch (next record: 10): 9 (uncompressed bytes in this segment=379501) in 0.01 seconds
+0123.005 (0) Table wpnd_revslider_slides: finishing file(s) (2, 28.2 KB)
+0123.009 (0) Table wpnd_revslider_static_slides: Total expected rows (via COUNT): 4
+0123.010 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.011 (0) Table wpnd_revslider_static_slides: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=950) in 0.00 seconds
+0123.014 (0) Table wpnd_revslider_static_slides: finishing file(s) (2, 0.4 KB)
+0123.017 (0) Table wpnd_wfblockediplog: Total expected rows (approximate): 119
+0123.019 (0) Table wpnd_wfblockediplog: Rows added in this batch (next record: 1000): 112 (uncompressed bytes in this segment=7651) in 0.00 seconds
+0123.021 (0) Table wpnd_wfblockediplog: finishing file(s) (2, 1.5 KB)
+0123.024 (0) Table wpnd_wfblocks7: Total expected rows (via COUNT): 0
+0123.025 (0) Table wpnd_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=846) in 0.00 seconds
+0123.030 (0) Table wpnd_wfblocks7: finishing file(s) (2, 0.4 KB)
+0123.032 (0) Table wpnd_wfconfig: Total expected rows (approximate): 258
+0123.091 (0) Table wpnd_wfconfig: Rows added in this batch (next record: 1000): 261 (uncompressed bytes in this segment=856414) in 0.06 seconds
+0123.095 (0) Table wpnd_wfconfig: finishing file(s) (2, 432.2 KB)
+0123.098 (0) Table wpnd_wfcrawlers: Total expected rows (approximate): 4
+0123.099 (0) Table wpnd_wfcrawlers: Rows added in this batch (next record: 1000): 5 (uncompressed bytes in this segment=1279) in 0.00 seconds
+0123.101 (0) Table wpnd_wfcrawlers: finishing file(s) (2, 0.5 KB)
+0123.105 (0) Table wpnd_wffilechanges: Total expected rows (approximate): 0
+0123.106 (0) Table wpnd_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=464) in 0.00 seconds
+0123.109 (0) Table wpnd_wffilechanges: finishing file(s) (2, 0.3 KB)
+0123.113 (0) Table wpnd_wffilemods: Total expected rows (approximate): 13607
+0123.448 (0) Table wpnd_wffilemods: Rows added in this batch (next record: 20000): 14597 (uncompressed bytes in this segment=3927868) in 0.34 seconds
+0123.450 (0) Table wpnd_wffilemods: finishing file(s) (2, 1441.2 KB)
+0123.453 (0) Table wpnd_wfhits: Total expected rows (approximate): 1096
+0123.497 (0) Table wpnd_wfhits: Rows added in this batch (next record: 5850): 1024 (uncompressed bytes in this segment=661029) in 0.04 seconds
+0123.501 (0) Table wpnd_wfhits: finishing file(s) (2, 39.8 KB)
+0123.506 (0) Table wpnd_wfhoover: Total expected rows (via COUNT): 0
+0123.507 (0) Table wpnd_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=527) in 0.00 seconds
+0123.510 (0) Table wpnd_wfhoover: finishing file(s) (2, 0.3 KB)
+0123.514 (0) Table wpnd_wfissues: Total expected rows (via COUNT): 16
+0123.515 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.518 (0) Table wpnd_wfissues: Rows added in this batch (next record: 4428): 16 (uncompressed bytes in this segment=20429) in 0.01 seconds
+0123.520 (0) Table wpnd_wfissues: finishing file(s) (2, 5.1 KB)
+0123.524 (0) Table wpnd_wfknownfilelist: Total expected rows (approximate): 14756
+0123.622 (0) Table wpnd_wfknownfilelist: Rows added in this batch (next record: 14597): 14597 (uncompressed bytes in this segment=1230475) in 0.10 seconds
+0123.626 (0) Table wpnd_wfknownfilelist: finishing file(s) (2, 143.9 KB)
+0123.630 (0) Table wpnd_wflivetraffichuman: Total expected rows (approximate): 0
+0123.631 (0) Table wpnd_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=660) in 0.00 seconds
+0123.645 (0) Table wpnd_wflivetraffichuman: finishing file(s) (2, 0.3 KB)
+0123.650 (0) Table wpnd_wflocs: Total expected rows (approximate): 1
+0123.652 (0) Table wpnd_wflocs: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=849) in 0.00 seconds
+0123.658 (0) Table wpnd_wflocs: finishing file(s) (2, 0.5 KB)
+0123.663 (0) Table wpnd_wflogins: Total expected rows (via COUNT): 124
+0123.664 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.671 (0) Table wpnd_wflogins: Rows added in this batch (next record: 124): 124 (uncompressed bytes in this segment=27740) in 0.01 seconds
+0123.675 (0) Table wpnd_wflogins: finishing file(s) (2, 3.1 KB)
+0123.678 (0) Table wpnd_wfls_2fa_secrets: Total expected rows (via COUNT): 0
+0123.681 (0) Table wpnd_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=693) in 0.00 seconds
+0123.684 (0) Table wpnd_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0123.688 (0) Table wpnd_wfls_settings: Total expected rows (approximate): 23
+0123.691 (0) Table wpnd_wfls_settings: Rows added in this batch (next record: 1000): 23 (uncompressed bytes in this segment=1780) in 0.00 seconds
+0123.694 (0) Table wpnd_wfls_settings: finishing file(s) (2, 0.8 KB)
+0123.698 (0) Table wpnd_wfnotifications: Total expected rows (approximate): 19
+0123.700 (0) Table wpnd_wfnotifications: Rows added in this batch (next record: 1000): 19 (uncompressed bytes in this segment=5071) in 0.00 seconds
+0123.702 (0) Table wpnd_wfnotifications: finishing file(s) (2, 1.2 KB)
+0123.706 (0) Table wpnd_wfpendingissues: Total expected rows (via COUNT): 0
+0123.707 (0) Table wpnd_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=884) in 0.00 seconds
+0123.710 (0) Table wpnd_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0123.714 (0) Table wpnd_wfreversecache: Total expected rows (approximate): 2
+0123.716 (0) Table wpnd_wfreversecache: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=635) in 0.00 seconds
+0123.719 (0) Table wpnd_wfreversecache: finishing file(s) (2, 0.4 KB)
+0123.723 (0) Table wpnd_wfsnipcache: Total expected rows (via COUNT): 1
+0123.723 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.725 (0) Table wpnd_wfsnipcache: Rows added in this batch (next record: 71): 1 (uncompressed bytes in this segment=836) in 0.00 seconds
+0123.728 (0) Table wpnd_wfsnipcache: finishing file(s) (2, 0.5 KB)
+0123.734 (0) Table wpnd_wfstatus: Total expected rows (via COUNT): 943
+0123.744 (0) Table wpnd_wfstatus: Rows added in this batch (next record: 74610): 943 (uncompressed bytes in this segment=94828) in 0.01 seconds
+0123.747 (0) Table wpnd_wfstatus: finishing file(s) (2, 16.8 KB)
+0123.750 (0) Table wpnd_wftrafficrates: Total expected rows (approximate): 0
+0123.751 (0) Table wpnd_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=578) in 0.00 seconds
+0123.753 (0) Table wpnd_wftrafficrates: finishing file(s) (2, 0.3 KB)
+0123.758 (0) Table wpnd_wpforms_tasks_meta: Total expected rows (via COUNT): 24
+0123.758 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.761 (0) Table wpnd_wpforms_tasks_meta: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=2565) in 0.01 seconds
+0123.764 (0) Table wpnd_wpforms_tasks_meta: finishing file(s) (2, 0.8 KB)
+0123.768 (0) Table wpnd_wpmailsmtp_debug_events: Total expected rows (via COUNT): 0
+0123.769 (0) Table wpnd_wpmailsmtp_debug_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=745) in 0.00 seconds
+0123.772 (0) Table wpnd_wpmailsmtp_debug_events: finishing file(s) (2, 0.4 KB)
+0123.776 (0) Table wpnd_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 20
+0123.777 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.779 (0) Table wpnd_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=2307) in 0.01 seconds
+0123.782 (0) Table wpnd_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.7 KB)
+0123.788 (0) Table wpnd_yoast_indexable: Total expected rows (via COUNT): 411
+0123.788 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.808 (0) Table wpnd_yoast_indexable: Rows added in this batch (next record: 441): 411 (uncompressed bytes in this segment=241259) in 0.02 seconds
+0123.811 (0) Table wpnd_yoast_indexable: finishing file(s) (2, 26.6 KB)
+0123.813 (0) Table wpnd_yoast_indexable_hierarchy: Total expected rows (approximate): 188
+0123.816 (0) Table wpnd_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 186 (uncompressed bytes in this segment=3918) in 0.00 seconds
+0123.818 (0) Table wpnd_yoast_indexable_hierarchy: finishing file(s) (2, 0.9 KB)
+0123.820 (0) Table wpnd_yoast_migrations: Total expected rows (via COUNT): 23
+0123.821 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.823 (0) Table wpnd_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1258) in 0.00 seconds
+0123.825 (0) Table wpnd_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0123.828 (0) Table wpnd_yoast_primary_term: Total expected rows (via COUNT): 0
+0123.829 (0) Table wpnd_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=889) in 0.00 seconds
+0123.831 (0) Table wpnd_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0123.837 (0) Table wpnd_yoast_seo_links: Total expected rows (via COUNT): 745
+0123.851 (0) Table wpnd_yoast_seo_links: Rows added in this batch (next record: 2534): 745 (uncompressed bytes in this segment=112429) in 0.02 seconds
+0123.854 (0) Table wpnd_yoast_seo_links: finishing file(s) (2, 13.9 KB)
+0123.858 (0) Table wpnd_yoast_seo_meta: Total expected rows (via COUNT): 22
+0123.859 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0123.862 (0) Table wpnd_yoast_seo_meta: Rows added in this batch (next record: 2293): 22 (uncompressed bytes in this segment=998) in 0.00 seconds
+0123.865 (0) Table wpnd_yoast_seo_meta: finishing file(s) (2, 0.5 KB)
+0123.867 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_options.table.tmpr189288.gz (1/62/fopen): adding to final database dump
+0123.871 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_options.table.gz (2/62/fopen): adding to final database dump
+0123.873 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_users.table.tmpr3.gz (3/62/fopen): adding to final database dump
+0123.874 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_users.table.gz (4/62/fopen): adding to final database dump
+0123.875 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_usermeta.table.tmpr283.gz (5/62/fopen): adding to final database dump
+0123.876 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_usermeta.table.gz (6/62/fopen): adding to final database dump
+0123.877 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_actionscheduler_actions.table.tmpr2958.gz (7/62/fopen): adding to final database dump
+0123.878 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_actionscheduler_actions.table.gz (8/62/fopen): adding to final database dump
+0123.879 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_actionscheduler_claims.table.tmpr0.gz (9/62/fopen): adding to final database dump
+0123.880 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_actionscheduler_claims.table.gz (10/62/fopen): adding to final database dump
+0123.881 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_actionscheduler_groups.table.tmpr4.gz (11/62/fopen): adding to final database dump
+0123.882 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_actionscheduler_groups.table.gz (12/62/fopen): adding to final database dump
+0123.886 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_actionscheduler_logs.table.tmpr1016.gz (13/62/fopen): adding to final database dump
+0123.887 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_actionscheduler_logs.table.gz (14/62/fopen): adding to final database dump
+0123.888 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_commentmeta.table.tmpr0.gz (15/62/fopen): adding to final database dump
+0123.888 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_commentmeta.table.gz (16/62/fopen): adding to final database dump
+0123.889 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_comments.table.tmpr0.gz (17/62/fopen): adding to final database dump
+0123.890 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_comments.table.gz (18/62/fopen): adding to final database dump
+0123.890 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_links.table.tmpr0.gz (19/62/fopen): adding to final database dump
+0123.891 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_links.table.gz (20/62/fopen): adding to final database dump
+0123.892 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_postmeta.table.tmpr25235.gz (21/62/fopen): adding to final database dump
+0123.897 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_postmeta.table.gz (22/62/fopen): adding to final database dump
+0123.898 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_posts.table.tmpr2640.gz (23/62/fopen): adding to final database dump
+0123.910 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_posts.table.gz (24/62/fopen): adding to final database dump
+0123.911 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_term_relationships.table.tmpr100001.gz (25/62/fopen): adding to final database dump
+0123.912 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_term_relationships.table.gz (26/62/fopen): adding to final database dump
+0123.913 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_term_taxonomy.table.tmpr94.gz (27/62/fopen): adding to final database dump
+0123.914 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_term_taxonomy.table.gz (28/62/fopen): adding to final database dump
+0123.915 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_termmeta.table.tmpr0.gz (29/62/fopen): adding to final database dump
+0123.915 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_termmeta.table.gz (30/62/fopen): adding to final database dump
+0123.916 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_terms.table.tmpr94.gz (31/62/fopen): adding to final database dump
+0123.917 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_terms.table.gz (32/62/fopen): adding to final database dump
+0123.918 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_events.table.tmpr0.gz (33/62/fopen): adding to final database dump
+0123.918 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_events.table.gz (34/62/fopen): adding to final database dump
+0123.919 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_failed_logins.table.tmpr17925.gz (35/62/fopen): adding to final database dump
+0123.995 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_failed_logins.table.gz (36/62/fopen): adding to final database dump
+0123.996 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_global_meta.table.tmpr0.gz (37/62/fopen): adding to final database dump
+0123.997 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_global_meta.table.gz (38/62/fopen): adding to final database dump
+0123.998 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_login_activity.table.tmpr152.gz (39/62/fopen): adding to final database dump
+0123.998 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_login_activity.table.gz (40/62/fopen): adding to final database dump
+0123.999 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_login_lockdown.table.tmpr4.gz (41/62/fopen): adding to final database dump
+0124.000 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_login_lockdown.table.gz (42/62/fopen): adding to final database dump
+0124.000 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_permanent_block.table.tmpr0.gz (43/62/fopen): adding to final database dump
+0124.001 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_aiowps_permanent_block.table.gz (44/62/fopen): adding to final database dump
+0124.001 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_duplicator_packages.table.tmpr23.gz (45/62/fopen): adding to final database dump
+0124.002 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_duplicator_packages.table.gz (46/62/fopen): adding to final database dump
+0124.003 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_e_submissions.table.tmpr0.gz (47/62/fopen): adding to final database dump
+0124.003 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_e_submissions.table.gz (48/62/fopen): adding to final database dump
+0124.004 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_e_submissions_actions_log.table.tmpr0.gz (49/62/fopen): adding to final database dump
+0124.005 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_e_submissions_actions_log.table.gz (50/62/fopen): adding to final database dump
+0124.005 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_e_submissions_values.table.tmpr0.gz (51/62/fopen): adding to final database dump
+0124.006 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_e_submissions_values.table.gz (52/62/fopen): adding to final database dump
+0124.007 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_css.table.tmpr110.gz (53/62/fopen): adding to final database dump
+0124.007 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_css.table.gz (54/62/fopen): adding to final database dump
+0124.008 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_layer_animations.table.tmpr0.gz (55/62/fopen): adding to final database dump
+0124.009 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_layer_animations.table.gz (56/62/fopen): adding to final database dump
+0124.009 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_navigations.table.tmpr0.gz (57/62/fopen): adding to final database dump
+0124.010 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_navigations.table.gz (58/62/fopen): adding to final database dump
+0124.010 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_sliders.table.tmpr5.gz (59/62/fopen): adding to final database dump
+0124.011 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_sliders.table.gz (60/62/fopen): adding to final database dump
+0124.012 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_slides.table.tmpr11.gz (61/62/fopen): adding to final database dump
+0124.013 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_slides.table.gz (62/62/fopen): adding to final database dump
+0124.013 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_static_slides.table.tmpr5.gz (63/62/fopen): adding to final database dump
+0124.014 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_revslider_static_slides.table.gz (64/62/fopen): adding to final database dump
+0124.015 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfblockediplog.table.tmpr1001.gz (65/62/fopen): adding to final database dump
+0124.015 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfblockediplog.table.gz (66/62/fopen): adding to final database dump
+0124.016 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfblocks7.table.tmpr0.gz (67/62/fopen): adding to final database dump
+0124.017 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfblocks7.table.gz (68/62/fopen): adding to final database dump
+0124.017 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfconfig.table.tmpr1001.gz (69/62/fopen): adding to final database dump
+0124.023 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfconfig.table.gz (70/62/fopen): adding to final database dump
+0124.024 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfcrawlers.table.tmpr1001.gz (71/62/fopen): adding to final database dump
+0124.025 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfcrawlers.table.gz (72/62/fopen): adding to final database dump
+0124.025 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wffilechanges.table.tmpr1.gz (73/62/fopen): adding to final database dump
+0124.026 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wffilechanges.table.gz (74/62/fopen): adding to final database dump
+0124.026 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wffilemods.table.tmpr20001.gz (75/62/fopen): adding to final database dump
+0124.108 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wffilemods.table.gz (76/62/fopen): adding to final database dump
+0124.109 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfhits.table.tmpr5851.gz (77/62/fopen): adding to final database dump
+0124.111 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfhits.table.gz (78/62/fopen): adding to final database dump
+0124.112 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfhoover.table.tmpr0.gz (79/62/fopen): adding to final database dump
+0124.112 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfhoover.table.gz (80/62/fopen): adding to final database dump
+0124.113 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfissues.table.tmpr4429.gz (81/62/fopen): adding to final database dump
+0124.113 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfissues.table.gz (82/62/fopen): adding to final database dump
+0124.114 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfknownfilelist.table.tmpr14598.gz (83/62/fopen): adding to final database dump
+0124.197 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfknownfilelist.table.gz (84/62/fopen): adding to final database dump
+0124.199 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wflivetraffichuman.table.tmpr1.gz (85/62/fopen): adding to final database dump
+0124.200 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wflivetraffichuman.table.gz (86/62/fopen): adding to final database dump
+0124.201 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wflocs.table.tmpr1001.gz (87/62/fopen): adding to final database dump
+0124.201 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wflocs.table.gz (88/62/fopen): adding to final database dump
+0124.202 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wflogins.table.tmpr125.gz (89/62/fopen): adding to final database dump
+0124.203 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wflogins.table.gz (90/62/fopen): adding to final database dump
+0124.203 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfls_2fa_secrets.table.tmpr0.gz (91/62/fopen): adding to final database dump
+0124.204 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfls_2fa_secrets.table.gz (92/62/fopen): adding to final database dump
+0124.204 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfls_settings.table.tmpr1001.gz (93/62/fopen): adding to final database dump
+0124.205 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfls_settings.table.gz (94/62/fopen): adding to final database dump
+0124.205 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfnotifications.table.tmpr1001.gz (95/62/fopen): adding to final database dump
+0124.206 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfnotifications.table.gz (96/62/fopen): adding to final database dump
+0124.206 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfpendingissues.table.tmpr0.gz (97/62/fopen): adding to final database dump
+0124.207 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfpendingissues.table.gz (98/62/fopen): adding to final database dump
+0124.207 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfreversecache.table.tmpr1001.gz (99/62/fopen): adding to final database dump
+0124.209 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfreversecache.table.gz (100/62/fopen): adding to final database dump
+0124.209 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfsnipcache.table.tmpr72.gz (101/62/fopen): adding to final database dump
+0124.210 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfsnipcache.table.gz (102/62/fopen): adding to final database dump
+0124.210 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfstatus.table.tmpr74611.gz (103/62/fopen): adding to final database dump
+0124.211 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wfstatus.table.gz (104/62/fopen): adding to final database dump
+0124.212 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wftrafficrates.table.tmpr1.gz (105/62/fopen): adding to final database dump
+0124.212 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wftrafficrates.table.gz (106/62/fopen): adding to final database dump
+0124.213 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wpforms_tasks_meta.table.tmpr25.gz (107/62/fopen): adding to final database dump
+0124.213 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wpforms_tasks_meta.table.gz (108/62/fopen): adding to final database dump
+0124.214 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wpmailsmtp_debug_events.table.tmpr0.gz (109/62/fopen): adding to final database dump
+0124.215 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wpmailsmtp_debug_events.table.gz (110/62/fopen): adding to final database dump
+0124.215 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wpmailsmtp_tasks_meta.table.tmpr21.gz (111/62/fopen): adding to final database dump
+0124.216 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_wpmailsmtp_tasks_meta.table.gz (112/62/fopen): adding to final database dump
+0124.216 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_indexable.table.tmpr442.gz (113/62/fopen): adding to final database dump
+0124.217 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_indexable.table.gz (114/62/fopen): adding to final database dump
+0124.218 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_indexable_hierarchy.table.tmpr1001.gz (115/62/fopen): adding to final database dump
+0124.218 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_indexable_hierarchy.table.gz (116/62/fopen): adding to final database dump
+0124.218 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_migrations.table.tmpr24.gz (117/62/fopen): adding to final database dump
+0124.219 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_migrations.table.gz (118/62/fopen): adding to final database dump
+0124.219 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_primary_term.table.tmpr0.gz (119/62/fopen): adding to final database dump
+0124.220 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_primary_term.table.gz (120/62/fopen): adding to final database dump
+0124.221 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_seo_links.table.tmpr2535.gz (121/62/fopen): adding to final database dump
+0124.221 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_seo_links.table.gz (122/62/fopen): adding to final database dump
+0124.222 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_seo_meta.table.tmpr2294.gz (123/62/fopen): adding to final database dump
+0124.223 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db-table-wpnd_yoast_seo_meta.table.gz (124/62/fopen): adding to final database dump
+0124.226 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db.gz: finished writing out complete database file (3642.2 KB)
+0124.272 (0) Total database tables backed up: 62 (backup_2022-06-26-1253_12_Densities_05424b04bfb4-db.gz, size: 3729715, sha1: ceaad662113aae21a2074b5d896ac74d99b7a183, sha256: 7acc7d444afccb1cb9e67480329061a5c0080e0f16bf7aba4757337dc1eaf6aa)
+0124.278 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0124.279 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0124.280 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0124.280 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip: others: This file has not yet been successfully uploaded: will queue
+0124.281 (0) backup_2022-06-26-1253_12_Densities_05424b04bfb4-db.gz: db: This file has not yet been successfully uploaded: will queue
+0124.281 (0) Saving backup history. Total backup size: 109.7 MB
+0124.284 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0124.288 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0124.289 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-bcf660ec4ed4bb9cd4fe0f7c99aafa62)
+0127.551 (0) Google Drive: quota usage: used=24045.5 MB, total=102400 MB, available=78354.5 MB
+0127.553 (0) Google Drive: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1fwKOxmF5wKaYQwW783iK4SlvZ_scOsXt)
+0128.258 (0) Googledrive chunked upload: 1.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 94.2 / 117)
+0128.559 (0) Googledrive chunked upload: 4.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 94.3 / 117)
+0128.956 (0) Googledrive chunked upload: 11 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 94.3 / 117)
+0129.496 (0) Googledrive chunked upload: 23.6 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 94.3 / 117)
+0130.312 (0) Googledrive chunked upload: 48.8 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 94.3 / 117)
+0131.802 (0) Googledrive chunked upload: 99.1 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 94.3 / 117)
+0133.705 (0) Googledrive chunked upload: 100 % uploaded (66060288)
+0133.708 (0) Google Drive: OK: Archive backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip uploaded in 6.16 seconds
+0133.709 (0) Recording as successfully uploaded: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip
+0133.739 (0) Deleting local file: backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip: OK
+0133.740 (0) Deleting zip manifest (backup_2022-06-26-1253_12_Densities_05424b04bfb4-plugins.zip.list.tmp)
+0134.079 (0) Google Drive: quota usage: used=24109.1 MB, total=102400 MB, available=78290.9 MB
+0134.081 (0) Google Drive: backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1fwKOxmF5wKaYQwW783iK4SlvZ_scOsXt)
+0134.734 (0) Googledrive chunked upload: 9.5 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 94.2 / 117)
+0135.041 (0) Googledrive chunked upload: 28.5 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 94.3 / 117)
+0135.463 (0) Googledrive chunked upload: 66.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 94.3 / 117)
+0137.013 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0137.017 (0) Google Drive: OK: Archive backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip uploaded in 2.94 seconds
+0137.018 (0) Recording as successfully uploaded: backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip
+0137.024 (0) Deleting local file: backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip: OK
+0137.025 (0) Deleting zip manifest (backup_2022-06-26-1253_12_Densities_05424b04bfb4-themes.zip.list.tmp)
+0137.464 (0) Google Drive: quota usage: used=24119.6 MB, total=102400 MB, available=78280.4 MB
+0137.465 (0) Google Drive: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1fwKOxmF5wKaYQwW783iK4SlvZ_scOsXt)
+0138.160 (0) Googledrive chunked upload: 4.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 94.2 / 117)
+0138.480 (0) Googledrive chunked upload: 13.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 94.3 / 117)
+0138.893 (0) Googledrive chunked upload: 32.2 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 94.3 / 117)
+0139.455 (0) Googledrive chunked upload: 69.1 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 94.3 / 117)
+0141.108 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0141.111 (0) Google Drive: OK: Archive backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip uploaded in 3.65 seconds
+0141.112 (0) Recording as successfully uploaded: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip
+0141.119 (0) Deleting local file: backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip: OK
+0141.121 (0) Deleting zip manifest (backup_2022-06-26-1253_12_Densities_05424b04bfb4-uploads.zip.list.tmp)
+0141.443 (0) Google Drive: quota usage: used=24141.4 MB, total=102400 MB, available=78258.6 MB
+0141.444 (0) Google Drive: backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip: Attempting to upload to Google Drive (into folder id: 1fwKOxmF5wKaYQwW783iK4SlvZ_scOsXt)
+0142.202 (0) Googledrive chunked upload: 9.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 94.2 / 117)
+0142.541 (0) Googledrive chunked upload: 29.1 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 94.3 / 117)
+0142.924 (0) Googledrive chunked upload: 67.9 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 94.3 / 117)
+0144.379 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0144.382 (0) Google Drive: OK: Archive backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip uploaded in 2.94 seconds
+0144.383 (0) Recording as successfully uploaded: backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip
+0144.387 (0) Deleting local file: backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip: OK
+0144.388 (0) Deleting zip manifest (backup_2022-06-26-1253_12_Densities_05424b04bfb4-others.zip.list.tmp)
+0144.761 (0) Google Drive: quota usage: used=24151.7 MB, total=102400 MB, available=78248.3 MB
+0144.762 (0) Google Drive: backup_2022-06-26-1253_12_Densities_05424b04bfb4-db.gz: Attempting to upload to Google Drive (into folder id: 1fwKOxmF5wKaYQwW783iK4SlvZ_scOsXt)
+0145.474 (0) Googledrive chunked upload: 28.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 94.2 / 117)
+0145.790 (0) Googledrive chunked upload: 84.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 94.3 / 117)
+0147.375 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0147.377 (0) Google Drive: OK: Archive backup_2022-06-26-1253_12_Densities_05424b04bfb4-db.gz uploaded in 2.61 seconds
+0147.378 (0) Recording as successfully uploaded: backup_2022-06-26-1253_12_Densities_05424b04bfb4-db.gz
+0147.381 (0) Deleting local file: backup_2022-06-26-1253_12_Densities_05424b04bfb4-db.gz: OK
+0147.384 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=5
+0147.385 (0) Number of backup sets in history: 6; groups (db): 1
+0147.386 (0) Examining (for databases) backup set with group_id=0, nonce=05424b04bfb4, datestamp=1656240795 (Jun 26 2022 10:53:15)
+0147.387 (0) This backup set is the backup set just made, so will not be deleted.
+0147.387 (0) Examining (for databases) backup set with group_id=0, nonce=345e208367fe, datestamp=1654035471 (May 31 2022 22:17:51)
+0147.387 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0147.387 (0) Examining (for databases) backup set with group_id=0, nonce=2f4ddaa8e90f, datestamp=1652112516 (May 09 2022 16:08:36)
+0147.387 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0147.387 (0) Examining (for databases) backup set with group_id=0, nonce=3a6d16a14115, datestamp=1651445602 (May 01 2022 22:53:22)
+0147.387 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0147.387 (0) Examining (for databases) backup set with group_id=0, nonce=03940e4e632b, datestamp=1648849577 (Apr 01 2022 21:46:17)
+0147.388 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0147.388 (0) Examining (for databases) backup set with group_id=0, nonce=c16e41818e13, datestamp=1646261224 (Mar 02 2022 22:47:04)
+0147.388 (0) 1646261224: db: this set includes a database (backup_2022-03-02-2347_12_Densities_c16e41818e13-db.gz); db count is now 5
+0147.388 (0) 1646261224: db: over retain limit (5); will delete this database
+0147.388 (0) Delete file: backup_2022-03-02-2347_12_Densities_c16e41818e13-db.gz, service=googledrive
+0150.649 (0) Google Drive: backup_2022-03-02-2347_12_Densities_c16e41818e13-db.gz: Deletion successful
+0150.654 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0150.655 (0) Number of backup sets in history: 6; groups (files): 1
+0150.656 (0) Examining (for files) backup set with nonce=05424b04bfb4, datestamp=1656240795 (Jun 26 2022 10:53:15)
+0150.656 (0) This backup set is the backup set just made, so will not be deleted.
+0150.657 (0) This backup set is the backup set just made, so will not be deleted.
+0150.657 (0) This backup set is the backup set just made, so will not be deleted.
+0150.657 (0) This backup set is the backup set just made, so will not be deleted.
+0150.657 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0150.658 (0) Examining (for files) backup set with nonce=345e208367fe, datestamp=1654035471 (May 31 2022 22:17:51)
+0150.658 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0150.658 (0) Examining (for files) backup set with nonce=2f4ddaa8e90f, datestamp=1652112516 (May 09 2022 16:08:36)
+0150.658 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0150.658 (0) Examining (for files) backup set with nonce=3a6d16a14115, datestamp=1651445602 (May 01 2022 22:53:22)
+0150.658 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0150.658 (0) Examining (for files) backup set with nonce=03940e4e632b, datestamp=1648849577 (Apr 01 2022 21:46:17)
+0150.658 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0150.659 (0) Examining (for files) backup set with nonce=c16e41818e13, datestamp=1646261224 (Mar 02 2022 22:47:04)
+0150.659 (0) plugins: over retain limit (5); will delete this file entity
+0150.659 (0) themes: over retain limit (5); will delete this file entity
+0150.659 (0) uploads: over retain limit (5); will delete this file entity
+0150.659 (0) others: over retain limit (5); will delete this file entity
+0150.659 (0) Delete file: backup_2022-03-02-2347_12_Densities_c16e41818e13-plugins.zip, service=googledrive
+0150.659 (0) Delete file: backup_2022-03-02-2347_12_Densities_c16e41818e13-themes.zip, service=googledrive
+0150.660 (0) Delete file: backup_2022-03-02-2347_12_Densities_c16e41818e13-uploads.zip, service=googledrive
+0150.660 (0) Delete file: backup_2022-03-02-2347_12_Densities_c16e41818e13-others.zip, service=googledrive
+0152.740 (0) Google Drive: backup_2022-03-02-2347_12_Densities_c16e41818e13-others.zip: Deletion successful
+0153.557 (0) Google Drive: backup_2022-03-02-2347_12_Densities_c16e41818e13-uploads.zip: Deletion successful
+0154.278 (0) Google Drive: backup_2022-03-02-2347_12_Densities_c16e41818e13-themes.zip: Deletion successful
+0155.011 (0) Google Drive: backup_2022-03-02-2347_12_Densities_c16e41818e13-plugins.zip: Deletion successful
+0155.022 (0) This backup set is now empty; will remove from history
+0155.022 (0) Corresponding log file (log.c16e41818e13.txt) not found - must have already been deleted
+0155.023 (0) Retain: saving new backup history (sets now: 5) and finishing retain operation
+0155.026 (0) Resume backup (05424b04bfb4, 0): finish run
+0155.027 (0) Decremented the semaphore (fd) by 1
+0155.028 (0) Semaphore (fd) unlocked
+0155.029 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0155.031 (0) No email will/can be sent - the user has not configured an email address.
+0155.031 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,250 @@
+# Translation of Plugins - Maintenance - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Maintenance - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-03 16:06:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Maintenance - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://fruitfulcode.com"
+msgstr "http://fruitfulcode.com"
+
+#. Author of the plugin/theme
+msgid "fruitfulcode"
+msgstr "fruitfulcode"
+
+#. Description of the plugin/theme
+msgid "Take your website for maintenance away from public view. Use maintenance plugin if your website is in development or you need to change a few things, run an upgrade. Make it only accessible by login and password. Plugin has a options to add a logo, background, headline, message, colors, login, etc. Extended PRO with more features version is available for purchase."
+msgstr "Vašu stranicu zatvara za posjetitelje radi održavanja. Ovaj dodatak možete koristiti ako je vaša web stranica u razvoju, morate promijeniti neke stvari ili radite nadogradnju. Pristupiti se može uz prijavu i lozinku. Dodatak ima mogućnosti dodavanja loga, pozadine, naslova, poruke, uređivanje boja, prijave, itd. Dodatna PRO verzija ima i više mogućnosti."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/maintenance/"
+msgstr "http://wordpress.org/plugins/maintenance/"
+
+#: load/functions.php:261
+msgid "Login"
+msgstr "Prijava"
+
+#: load/functions.php:260
+msgid "Lost Password"
+msgstr "Izgubljena lozinka"
+
+#: load/functions.php:259
+msgid "Password"
+msgstr "Zaporka"
+
+#: load/functions.php:258
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: load/functions.php:257
+msgid "User Login"
+msgstr "Prijava za korisnika"
+
+#: load/functions.php:52
+msgid "You entered your login and password are incorrect!"
+msgstr "Unijeli ste pogrešne podatke za prijavu!"
+
+#: load/functions.php:49
+msgid "You entered your password are incorrect!"
+msgstr "Unešena lozinka je pogrešna!"
+
+#: load/functions.php:45
+msgid "You entered your login are incorrect!"
+msgstr "Uneseni podaci nisu ispravni!"
+
+#: load/functions.php:37
+msgid "Permission access denied!"
+msgstr "Pristup je zabranjen!"
+
+#: includes/functions.php:606
+msgid "Website will be available soon"
+msgstr "Web stranica će uskoro biti dostupna"
+
+#: includes/functions.php:605
+msgid "Maintenance mode is on"
+msgstr "Način rada za održavanje je omogućen"
+
+#: includes/functions.php:604
+msgid "Website is under construction"
+msgstr "Web stranica je u izgradnji"
+
+#: includes/functions.php:409
+msgid "Demo website"
+msgstr "Demo web stranica"
+
+#: includes/functions.php:405
+msgid "Purchase <a href=\"http://codecanyon.net/item/maintenance-wordpress-plugin/2781350?ref=fruitfulcode\" target=\"_blank\">PRO</a> version  with extended functionality. %1$s If you like our plugin please <a target=\"_blank\" href=\"http://wordpress.org/support/view/plugin-reviews/maintenance?filter=5\">rate it</a>, <a title=\"leave feedbacks\" href=\"%2$s\" target=\"_blank\">leave feedbacks</a>."
+msgstr "Kupite <a href=\"http://codecanyon.net/item/maintenance-wordpress-plugin/2781350?ref=fruitfulcode\" target=\"_blank\">PRO</a> verziju sa dodatnim funkcionalnostima. %1$s Ako vam se naš dodatak sviđa molimo <a target=\"_blank\" href=\"http://wordpress.org/support/view/plugin-reviews/maintenance?filter=5\">ocijenite ga</a>, <a title=\"leave feedbacks\" href=\"%2$s\" target=\"_blank\">ostavite povratnu informaciju</a>."
+
+#: includes/functions.php:404
+msgid "Extended functionality"
+msgstr "Proširene funckionalnosti"
+
+#: includes/functions.php:391
+msgid "Zoner - Real Estate WordPress theme"
+msgstr "Zoner-WordPress tema za nekretnine"
+
+#: includes/functions.php:385
+msgid "Love.ly - Simple & Elegant WordPress theme"
+msgstr "Love.ly - Jednostavna i elegantna WordPress tema"
+
+#: includes/functions.php:380
+msgid "ANAGLYPH - One page / Multi Page WordPress Theme"
+msgstr "ANAGLYPH - Jedno stranična / Više stranična WordPress tema"
+
+#: includes/functions.php:374
+msgid "Premium WordPress themes"
+msgstr "Premium WordPress teme"
+
+#: includes/functions.php:363
+msgid "You may find answers to your questions at <a target=\"_blank\" href=\"http://wordpress.org/support/plugin/maintenance\">support forum</a><br>You may  <a target=\"_blank\" href=\"mailto:mail@fruitfulcode.com?subject=Maintenance plugin\">contact us</a> with customization requests and suggestions.<br> Please visit our website to learn about us and our services <a href=\"%1$s\" title=\"%2$s\">%2$s</a>"
+msgstr "Možete pronaći odgovore na vaša pitanja na <a target=\"_blank\" href=\"http://wordpress.org/support/plugin/maintenance\">forumu</a><br>Možete  <a target=\"_blank\" href=\"mailto:mail@fruitfulcode.com?subject=Maintenance plugin\">kontaktirati nas</a> za zahtijevima za promjenama.<br> Molimo posjeti našu web stranicu da saznali više o nama i našim uslugama <a href=\"%1$s\" title=\"%2$s\">%2$s</a>"
+
+#: includes/functions.php:362
+msgid "Have any questions?"
+msgstr "Imate pitanja?"
+
+#: includes/functions.php:354
+msgid "Font family"
+msgstr "Porodica fonta"
+
+#: includes/functions.php:347
+msgid "Font color"
+msgstr "Boja fonta"
+
+#: includes/functions.php:346
+msgid "Background color"
+msgstr "Boja pozadine"
+
+#: includes/functions.php:340
+msgid "Upload Background"
+msgstr "Unesi fotografiju za pozadinu"
+
+#: includes/functions.php:340
+msgid "Background image"
+msgstr "Pozadinska fotografija"
+
+#: includes/functions.php:325
+msgid "Not available object."
+msgstr "Objekt nije dostupan."
+
+#: includes/functions.php:279
+msgid "Select the page to be displayed:"
+msgstr "Odaberite stranica koje će se prikazati:"
+
+#: includes/functions.php:265
+msgid "CSS Code"
+msgstr "CSS kod"
+
+#: includes/functions.php:253
+msgid "Login On / Off"
+msgstr "Prijava Onogućena / Onemogućena"
+
+#: includes/functions.php:252
+msgid "Apply a blur"
+msgstr "Omogući zamućenje"
+
+#: includes/functions.php:252
+msgid "Background blur"
+msgstr "Zamućenje pozadine"
+
+#: includes/functions.php:246
+msgid "Blur intensity"
+msgstr "Razina zamućenja"
+
+#: includes/functions.php:245
+msgid "UA-XXXXX-X"
+msgstr "UA-XXXXX-X"
+
+#: includes/functions.php:245
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+#: includes/functions.php:238
+msgid "Service temporarily unavailable"
+msgstr "Usluga trenutno nije dostupna"
+
+#: includes/functions.php:238
+msgid "503"
+msgstr "503"
+
+#: includes/functions.php:237
+msgid "Show admin bar"
+msgstr "Prikaži admin traku"
+
+#: includes/functions.php:237
+msgid "Admin bar"
+msgstr "Admin traka"
+
+#: includes/functions.php:233
+msgid "Upload Logo"
+msgstr "Unesi logo"
+
+#: includes/functions.php:233
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/functions.php:232
+msgid "Footer Text"
+msgstr "Tekst podnožja"
+
+#: includes/functions.php:231
+msgid "Description"
+msgstr "Opis"
+
+#: includes/functions.php:230
+msgid "Headline"
+msgstr "Naslov"
+
+#: includes/functions.php:229
+msgid "Page title"
+msgstr "Naziv stranice"
+
+#: includes/functions.php:208
+msgid "Support"
+msgstr "Podrška"
+
+#: includes/functions.php:202
+msgid "Fruitful Code projects"
+msgstr "Fruitful Code projekti"
+
+#: includes/functions.php:195
+msgid "Pro version"
+msgstr "Pro verzija"
+
+#: includes/functions.php:189
+msgid "Exclude pages"
+msgstr "Isključi stranice"
+
+#: includes/functions.php:188
+msgid "Custom CSS"
+msgstr "Posebni CSS"
+
+#: includes/functions.php:187
+msgid "General Settings"
+msgstr "Općenite postavke"
+
+#: includes/functions.php:168
+msgid "Google Web Fonts"
+msgstr "Google Web Fontovi"
+
+#: includes/functions.php:161
+msgid "Standard Fonts"
+msgstr "Standardni Fontovi"
+
+#: includes/admin.php:88
+msgid "Save changes"
+msgstr "Pohrani promjene"
+
+#. #-#-#-#-#  tmp-maintenance.pot (Maintenance 2.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin.php:73 includes/functions.php:539
+msgid "Maintenance"
+msgstr "Održavanje"

@@ -1,0 +1,540 @@
+{
+    "RPT": {
+        "ScanTime": "0.02 sec.",
+        "ScanFile": "20211221_12densities_DB_PROD_abcf798fb2de72b51109_20211221094706_scan.json",
+        "Warnings": 0,
+        "Success": 6
+    },
+    "SRV": {
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "mysqli": true,
+            "version": true
+        },
+        "SYS": {
+            "managedHost": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": true,
+            "ismu": false,
+            "ALL": "Good"
+        }
+    },
+    "ARC": {
+        "Size": "0B",
+        "DirCount": "0",
+        "FileCount": "0",
+        "FullCount": "0",
+        "WarnFileCount": 0,
+        "WarnDirCount": 0,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/c12den44\/public_html\/.opcache",
+            "\/home\/c12den44\/public_html\/wp-content\/ai1wm-backups",
+            "\/home\/c12den44\/public_html\/wp-content\/backups-dup-lite",
+            "\/home\/c12den44\/public_html\/wp-content\/backups-dup-pro",
+            "\/home\/c12den44\/public_html\/wp-content\/backupwordpress",
+            "\/home\/c12den44\/public_html\/wp-content\/bps-backup",
+            "\/home\/c12den44\/public_html\/wp-content\/cache",
+            "\/home\/c12den44\/public_html\/wp-content\/content\/cache",
+            "\/home\/c12den44\/public_html\/wp-content\/contents\/cache",
+            "\/home\/c12den44\/public_html\/wp-content\/infinitewp\/backups",
+            "\/home\/c12den44\/public_html\/wp-content\/managewp\/backups",
+            "\/home\/c12den44\/public_html\/wp-content\/old-cache",
+            "\/home\/c12den44\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/c12den44\/public_html\/wp-content\/updraft",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/snapshots",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/sucuri",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/wp-clone",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/c12den44\/public_html\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/c12den44\/public_html\/wp-content\/wfcache",
+            "\/home\/c12den44\/public_html\/wp-content\/wishlist-backup",
+            "\/home\/c12den44\/public_html\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            "error_log",
+            "error.log",
+            "debug_log",
+            "ws_ftp.log",
+            "dbcache",
+            "pgcache",
+            "objectcache",
+            ".DS_Store",
+            "\/home\/c12den44\/public_html\/.htaccess",
+            "\/home\/c12den44\/public_html\/web.config",
+            "\/home\/c12den44\/public_html\/wp-config.php"
+        ],
+        "FilterExtsAll": [],
+        "FilterInfo": {
+            "Dirs": {
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [
+                    "\/home\/c12den44\/public_html\/wp-snapshots",
+                    "\/home\/c12den44\/public_html\/wp-content\/backups-dup-lite",
+                    "\/home\/c12den44\/public_html\/.opcache",
+                    "\/home\/c12den44\/public_html\/wp-content\/backups-dup-pro",
+                    "\/home\/c12den44\/public_html\/wp-content\/ai1wm-backups",
+                    "\/home\/c12den44\/public_html\/wp-content\/backupwordpress",
+                    "\/home\/c12den44\/public_html\/wp-content\/content\/cache",
+                    "\/home\/c12den44\/public_html\/wp-content\/contents\/cache",
+                    "\/home\/c12den44\/public_html\/wp-content\/infinitewp\/backups",
+                    "\/home\/c12den44\/public_html\/wp-content\/managewp\/backups",
+                    "\/home\/c12den44\/public_html\/wp-content\/old-cache",
+                    "\/home\/c12den44\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+                    "\/home\/c12den44\/public_html\/wp-content\/updraft",
+                    "\/home\/c12den44\/public_html\/wp-content\/wishlist-backup",
+                    "\/home\/c12den44\/public_html\/wp-content\/wfcache",
+                    "\/home\/c12den44\/public_html\/wp-content\/bps-backup",
+                    "\/home\/c12den44\/public_html\/wp-content\/cache",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/aiowps_backups",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/backupbuddy_temp",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/backupbuddy_backups",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/ithemes-security\/backups",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/mainwp\/backup",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/pb_backupbuddy",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/snapshots",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/sucuri",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/wp-clone",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/wp_all_backup",
+                    "\/home\/c12den44\/public_html\/wp-content\/uploads\/wpbackitup_backups"
+                ],
+                "Global": [],
+                "Instance": []
+            },
+            "Files": {
+                "Size": [],
+                "Warning": [],
+                "Unreadable": [],
+                "AddonSites": [],
+                "Core": [],
+                "Global": [
+                    "error_log",
+                    "error.log",
+                    "debug_log",
+                    "ws_ftp.log",
+                    "dbcache",
+                    "pgcache",
+                    "objectcache",
+                    ".DS_Store"
+                ],
+                "Instance": []
+            },
+            "Exts": {
+                "Core": [],
+                "Global": [],
+                "Instance": []
+            },
+            "UDirCount": 0,
+            "UFileCount": 0,
+            "UExtCount": 0,
+            "TreeSize": [],
+            "TreeWarning": []
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Status": {
+            "Size": "Good",
+            "Names": "Good",
+            "UnreadableItems": "Good",
+            "MigratePackage": "Good",
+            "CanbeMigratePackage": true,
+            "showCreateProcFuncStatus": "Good",
+            "showCreateProcFunc": true,
+            "AddonSites": "Good"
+        },
+        "Dirs": [],
+        "Files": []
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "DB_Case": "Good",
+            "DB_Rows": "Good",
+            "DB_Size": "Good",
+            "TBL_Case": "Good",
+            "TBL_Rows": "Good",
+            "TBL_Size": "Warn",
+            "Triggers": "Good"
+        },
+        "Size": "39.63MB",
+        "Rows": "37,917",
+        "TableCount": 59,
+        "TableList": {
+            "wpnd_actionscheduler_actions": {
+                "Case": 0,
+                "Rows": "18",
+                "Size": "144KB",
+                "USize": 147456
+            },
+            "wpnd_actionscheduler_claims": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_actionscheduler_groups": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_actionscheduler_logs": {
+                "Case": 0,
+                "Rows": "44",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpnd_aiowps_events": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_aiowps_failed_logins": {
+                "Case": 0,
+                "Rows": "5,211",
+                "Size": "352KB",
+                "USize": 360448
+            },
+            "wpnd_aiowps_global_meta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_aiowps_login_activity": {
+                "Case": 0,
+                "Rows": "121",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_aiowps_login_lockdown": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_aiowps_permanent_block": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpnd_comments": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "96KB",
+                "USize": 98304
+            },
+            "wpnd_duplicator_packages": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_options": {
+                "Case": 0,
+                "Rows": "428",
+                "Size": "3.16MB",
+                "USize": 3309568
+            },
+            "wpnd_postmeta": {
+                "Case": 0,
+                "Rows": "3,439",
+                "Size": "4.8MB",
+                "USize": 5029888
+            },
+            "wpnd_posts": {
+                "Case": 0,
+                "Rows": "675",
+                "Size": "20.63MB",
+                "USize": 21626880
+            },
+            "wpnd_revslider_css": {
+                "Case": 0,
+                "Rows": "109",
+                "Size": "128KB",
+                "USize": 131072
+            },
+            "wpnd_revslider_layer_animations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_revslider_navigations": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_revslider_sliders": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpnd_revslider_slides": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "464KB",
+                "USize": 475136
+            },
+            "wpnd_revslider_static_slides": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_term_relationships": {
+                "Case": 0,
+                "Rows": "174",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_term_taxonomy": {
+                "Case": 0,
+                "Rows": "68",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpnd_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpnd_terms": {
+                "Case": 0,
+                "Rows": "68",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpnd_usermeta": {
+                "Case": 0,
+                "Rows": "122",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpnd_users": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wpnd_wfblockediplog": {
+                "Case": 0,
+                "Rows": "77",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wfblocks7": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wpnd_wfconfig": {
+                "Case": 0,
+                "Rows": "257",
+                "Size": "1.28MB",
+                "USize": 1343488
+            },
+            "wpnd_wfcrawlers": {
+                "Case": 0,
+                "Rows": "8",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wffilechanges": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wffilemods": {
+                "Case": 0,
+                "Rows": "11,458",
+                "Size": "4.52MB",
+                "USize": 4734976
+            },
+            "wpnd_wfhits": {
+                "Case": 0,
+                "Rows": "325",
+                "Size": "320KB",
+                "USize": 327680
+            },
+            "wpnd_wfhoover": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_wfissues": {
+                "Case": 0,
+                "Rows": "3",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpnd_wfknownfilelist": {
+                "Case": 0,
+                "Rows": "12,498",
+                "Size": "1.52MB",
+                "USize": 1589248
+            },
+            "wpnd_wflivetraffichuman": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_wflocs": {
+                "Case": 0,
+                "Rows": "19",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wflogins": {
+                "Case": 0,
+                "Rows": "102",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpnd_wfls_2fa_secrets": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_wfls_settings": {
+                "Case": 0,
+                "Rows": "23",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wfnotifications": {
+                "Case": 0,
+                "Rows": "9",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wfpendingissues": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "80KB",
+                "USize": 81920
+            },
+            "wpnd_wfreversecache": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wfsnipcache": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wpnd_wfstatus": {
+                "Case": 0,
+                "Rows": "1,274",
+                "Size": "256KB",
+                "USize": 262144
+            },
+            "wpnd_wftrafficrates": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wpforms_tasks_meta": {
+                "Case": 0,
+                "Rows": "6",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wpmailsmtp_debug_events": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_wpmailsmtp_tasks_meta": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "16KB",
+                "USize": 16384
+            },
+            "wpnd_yoast_indexable": {
+                "Case": 0,
+                "Rows": "405",
+                "Size": "320KB",
+                "USize": 327680
+            },
+            "wpnd_yoast_indexable_hierarchy": {
+                "Case": 0,
+                "Rows": "185",
+                "Size": "64KB",
+                "USize": 65536
+            },
+            "wpnd_yoast_migrations": {
+                "Case": 0,
+                "Rows": "18",
+                "Size": "32KB",
+                "USize": 32768
+            },
+            "wpnd_yoast_primary_term": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "48KB",
+                "USize": 49152
+            },
+            "wpnd_yoast_seo_links": {
+                "Case": 0,
+                "Rows": "721",
+                "Size": "224KB",
+                "USize": 229376
+            },
+            "wpnd_yoast_seo_meta": {
+                "Case": 0,
+                "Rows": "22",
+                "Size": "16KB",
+                "USize": 16384
+            }
+        },
+        "RawSize": 41549824
+    },
+    "LL": {
+        "TotalSize": "39.63MB",
+        "Status": {
+            "TotalSize": "Good"
+        }
+    }
+}

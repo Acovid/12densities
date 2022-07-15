@@ -1,0 +1,670 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 09:34:41
+* VERSION: 1.3.36
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.4.2                                 |7.4.10
+OS__________________: Darwin                                |Linux
+CREATED_____________: 2020-09-18 09:29:57
+WP VERSION__________: 5.5.1
+DUP VERSION_________: 1.3.36
+DB__________________: 5.7.26
+DB TABLES___________: 40
+DB ROWS_____________: 8,807
+DB FILE SIZE________: 17.97MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.10 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache
+DOC ROOT____________: "/home/c12den44/public_html"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://12densities.com/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "shellexec_unzip"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "/home/c12den44/public_html/20200918_12densities_dev_[HASH]_20200918092957_archive.zip"
+SIZE________________: 92.47MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION SHELLEXEC >>> 
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 09:35:09 - RUNTIME: 28.0554 sec.
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 09:36:20
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.3.24 -- Build Server: 5.7.26
+FILE SIZE:	dup-database__[HASH].sql (9.97MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/home/c12den44/public_html/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	40
+RENAMED TABLES:	0
+QUERIES RAN:	8662
+
+wpnd_aiowps_events: (0)
+wpnd_aiowps_failed_logins: (5000)
+wpnd_aiowps_global_meta: (0)
+wpnd_aiowps_login_activity: (97)
+wpnd_aiowps_login_lockdown: (3)
+wpnd_aiowps_permanent_block: (0)
+wpnd_commentmeta: (0)
+wpnd_comments: (2)
+wpnd_duplicator_packages: (0)
+wpnd_itsec_distributed_storage: (0)
+wpnd_itsec_fingerprints: (0)
+wpnd_itsec_geolocation_cache: (0)
+wpnd_itsec_lockouts: (0)
+wpnd_itsec_logs: (113)
+wpnd_itsec_mutexes: (0)
+wpnd_itsec_opaque_tokens: (0)
+wpnd_itsec_temp: (30)
+wpnd_itsec_user_groups: (5)
+wpnd_links: (0)
+wpnd_options: (339)
+wpnd_postmeta: (1411)
+wpnd_posts: (675)
+wpnd_revslider_css: (109)
+wpnd_revslider_layer_animations: (0)
+wpnd_revslider_navigations: (0)
+wpnd_revslider_sliders: (4)
+wpnd_revslider_slides: (9)
+wpnd_revslider_static_slides: (4)
+wpnd_term_relationships: (212)
+wpnd_term_taxonomy: (66)
+wpnd_termmeta: (0)
+wpnd_terms: (66)
+wpnd_usermeta: (98)
+wpnd_users: (2)
+wpnd_yoast_indexable: (165)
+wpnd_yoast_indexable_hierarchy: (1)
+wpnd_yoast_migrations: (18)
+wpnd_yoast_primary_term: (5)
+wpnd_yoast_seo_links: (126)
+wpnd_yoast_seo_meta: (22)
+Removed '37' cache/transient rows
+
+INSERT DATA RUNTIME: 3.6862 sec.
+STEP-2 COMPLETE @ 09:36:23 - RUNTIME: 3.7085 sec.
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 09:36:31
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "12 Densities"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/Applications/MAMP/htdocs/12densities"
+path_new______________: "/home/c12den44/public_html"
+siteurl_______________: "http://12densities.com"
+url_old_______________: "http://localhost:8888/12densities"
+url_new_______________: "http://12densities.com"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wpnd_aiowps_events"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_aiowps_failed_logins"_______________________[ROWS:  5000][PG:   2][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_aiowps_global_meta"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_aiowps_login_activity"______________________[ROWS:    97][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_aiowps_login_lockdown"______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_aiowps_permanent_block"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_commentmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_comments"___________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_duplicator_packages"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_itsec_distributed_storage"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_itsec_fingerprints"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_itsec_geolocation_cache"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_itsec_lockouts"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_itsec_logs"_________________________________[ROWS:   113][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_itsec_mutexes"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_itsec_opaque_tokens"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_itsec_temp"_________________________________[ROWS:    30][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_itsec_user_groups"__________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_options"____________________________________[ROWS:   339][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_postmeta"___________________________________[ROWS:  1411][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_posts"______________________________________[ROWS:   675][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_revslider_css"______________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_revslider_layer_animations"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_revslider_navigations"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_revslider_sliders"__________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_revslider_slides"___________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_revslider_static_slides"____________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_term_relationships"_________________________[ROWS:   212][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_term_taxonomy"______________________________[ROWS:    66][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_termmeta"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpnd_terms"______________________________________[ROWS:    66][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_usermeta"___________________________________[ROWS:    98][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_users"______________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_yoast_indexable"____________________________[ROWS:   165][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_yoast_indexable_hierarchy"__________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_yoast_migrations"___________________________[ROWS:    18][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_yoast_primary_term"_________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_yoast_seo_links"____________________________[ROWS:   126][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+
+EVALUATE TABLE: "wpnd_yoast_seo_meta"_____________________________[ROWS:    22][PG:   1][SCAN:text columns]
+	SEARCH  1:"/Applications/MAMP/htdocs/12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  2:"\/Applications\/MAMP\/htdocs\/12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  3:"%2FApplications%2FMAMP%2Fhtdocs%2F12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  4:"\Applications\MAMP\htdocs\12densities" ===========> "/home/c12den44/public_html"
+	SEARCH  5:"\\Applications\\MAMP\\htdocs\\12densities" =======> "\/home\/c12den44\/public_html"
+	SEARCH  6:"%5CApplications%5CMAMP%5Chtdocs%5C12densities" ===> "%2Fhome%2Fc12den44%2Fpublic_html"
+	SEARCH  7:"//localhost:8888/12densities" ====================> "//12densities.com"
+	SEARCH  8:"\/\/localhost:8888\/12densities" =================> "\/\/12densities.com"
+	SEARCH  9:"%2F%2Flocalhost%3A8888%2F12densities" ============> "%2F%2F12densities.com"
+	SEARCH 10:"https://12densities.com" =========================> "http://12densities.com"
+	SEARCH 11:"https:\/\/12densities.com" =======================> "http:\/\/12densities.com"
+	SEARCH 12:"https%3A%2F%2F12densities.com" ===================> "http%3A%2F%2F12densities.com"
+--------------------------------------
+SCANNED:	Tables:40 	|	 Rows:8582 	|	 Cells:62215 
+UPDATED:	Tables:7 	|	 Rows:959 	|	 Cells:1707 
+ERRORS:		0 
+RUNTIME:	1.051300 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""c12den44_wp373""
+	UPDATE DB_USER ""c12den44_wp373""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+deactivate js_composer/js_composer.php
+Plugin(s) listed here are deactivated: js_composer/js_composer.php
+Plugin(s) reactivated after installation: js_composer/js_composer.php
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 09:36:32 - RUNTIME: 1.0874 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] Info
+	SECTIONS: general
+	LONG MSG:             The following is a list of notices that may need to be fixed in order to finalize your setup. These values should only be investigated if you're running into
+            issues with your site. For more details see the <a href="https://codex.wordpress.org/Editing_wp-config.php" target="_blank">WordPress Codex</a>.
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+-----------------------
+[WARNING] Deactivated Plugin:  WPBakery Page Builder
+	SECTIONS: general
+	LONG MSG: This plugin is deactivated automatically, because it requires a reacivation to work properly.  <b>Please reactivate from the WordPress admin panel after logging in.</b> This will re-enable your site's frontend.
+
+====================================
+[PHP ERR][ISSUE] MSG:Module 'sqlite3' already loaded [CODE:32|FILE:Unknown|LINE:0]
